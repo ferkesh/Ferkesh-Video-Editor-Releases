@@ -1,2 +1,2 @@
-# Ferkesh-Video-Editor-Releases
+# EasyClip-Releases
 video editor
